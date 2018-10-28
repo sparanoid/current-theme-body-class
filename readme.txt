@@ -4,7 +4,7 @@ Donate link: https://sparanoid.com/donate/
 Tags: body, body_class, css, theme
 Requires at least: 4.6
 Tested up to: 5.0
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,10 +28,16 @@ Add you current theme slug to your HTML `body` class via `body_class` for easy c
 
 == Changelog ==
 
+= 1.0.1 =
+* Compatibility check for 5.0, nothing new, just bump version to tell everyone this plugin still works.
+
 = 1.0.0 =
 * First release
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+* Compatibility check for 5.0, nothing new, just bump version to tell everyone this plugin still works.
 
 = 1.0.0 =
 * First release
