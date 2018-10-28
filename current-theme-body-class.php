@@ -4,7 +4,7 @@
  * Plugin URI: https://sparanoid.com/work/current-theme-body-class/
  * Description: Add you current theme slug to your HTML body class for easy customization
  * Author: Tunghsiao Liu
- * Version: 1.0.0
+ * Version: 1.0.1
  * Author URI: https://sparanoid.com
  * License: GPL2+
  */
